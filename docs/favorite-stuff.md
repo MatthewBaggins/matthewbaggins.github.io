@@ -74,3 +74,9 @@ permaling: /favorite-stuff
 - *Introduction to the Theory of Complex Systems* (Stefan Thurner, Peter Klimek, & Rudolf Hanel)
 - *The Foundations of Computability Theory* (Borut Robič)
 
+## Software
+
+- [Obsidian](https://obsidian.md/) for note-taking, [thinking-and-learning-by-writing](https://www.cold-takes.com/learning-by-writing/), [spaced repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition), life logging, and more
+- [Todoist](https://todoist.com/) for tasks management 
+  - It is actually somewhat-but-significantly suboptimal for my current workflow, but I learned to use it proficiently and works for me, so ¯\\\_(ツ)\_/¯.
+
