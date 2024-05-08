@@ -4,9 +4,44 @@ title: Favorite stuff
 permaling: /favorite-stuff
 ---
 
-# Favorite stuff
+# Fiction
 
-## Podcasts
+## Literature
+
+- *Hyperion* (Dan Simmons)
+- *Stormlight Archive* (Brandon Sanderson)
+- *Revelation Space* (Alastair Reynolds)
+- *Dune* (Frank Herbert)
+- [The Rifters trilogy](https://en.wikipedia.org/wiki/Peter_Watts_(author)#Rifters_trilogy) (*Starfish*, *Maelstrom*, *βehemoth*) (Peter Watts)
+- *[The Hainish Cycle](https://en.wikipedia.org/wiki/Hainish_Cycle)* and *[The Earthsea Cycle](https://en.wikipedia.org/wiki/Earthsea)* (Ursula K. Le Guin)
+- *Perfekcyjna Niedoskonałość* (Jacek Dukaj)
+
+## Anime
+
+- Tengen Toppa Gurren Lagann
+- Death Note
+
+# Non-fiction books
+
+- *[Darwinian Populations and Natural Selection](https://academic.oup.com/book/4808?login=false)* (Peter Godfrey-Smith)
+- *[The Elephant in the Brain](https://www.elephantinthebrain.com/)* (Robin Hanson & Kevin Simler)
+- *[Radical Markets](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets)* (Eric A. Posner & E. Glen Weyl)
+
+# Textbooks
+
+- *Introduction to the Theory of Complex Systems* (Stefan Thurner, Peter Klimek & Rudolf Hanel)
+- *The Foundations of Computability Theory* (Borut Robič)
+
+# Blogs
+
+- [LessWrong](https://www.lesswrong.com/)
+- [Astral Codex Ten](https://astralcodexten.substack.com/) / [Slate Star Codex](https://slatestarcodex.com/)
+- [Thing of Things](https://thingofthings.substack.com/)
+- [Overcoming Bias](http://overcomingbias.com/)
+- [Joe Carlsmith](https://joecarlsmith.com/)
+- [TsviBT](https://tsvibt.blogspot.com/)
+
+# Podcasts
 
 - **<u>All time favorites</u>**
   - [The Bayesian Conspiracy](https://www.thebayesianconspiracy.com/)
@@ -46,37 +81,10 @@ permaling: /favorite-stuff
   - [LessWrong Curated](https://www.lesswrong.com/posts/kDjKF2yFhFEWe4hgC/announcing-the-lesswrong-curated-podcast)
   - [Joe Carlsmith Audio](https://joecarlsmithaudio.buzzsprout.com/)
 
-## Blogs
-
-- [LessWrong](https://www.lesswrong.com/)
-- [Astral Codex Ten](https://astralcodexten.substack.com/) / [Slate Star Codex](https://slatestarcodex.com/)
-- [Thing of Things](https://thingofthings.substack.com/)
-- [Overcoming Bias](http://overcomingbias.com/)
-- [Joe Carlsmith](https://joecarlsmith.com/)
-- [TsviBT](https://tsvibt.blogspot.com/)
-
-## Fiction
-
-- *Hyperion* (Dan Simmons)
-- All of cosmere (Brandon Sanderson)
-- *Revelation Space* (Alastair Reynolds)
-- *Dune* (Frank Herbert)
-- Literally everything by Peter Watts, especially *The Rifters* trilogy
-- *The Hain Cycle* and *The Earthsea Cycle* (Ursula K. Le Guin)
-
-## Non-fiction books
-
-- *Darwinian Populations and Natural Selection* (Peter Godfrey-Smith)
-- *The Elephant in the Brain* (Robin Hanson & Kevin Simler)
-
-## Textbooks
-
-- *Introduction to the Theory of Complex Systems* (Stefan Thurner, Peter Klimek, & Rudolf Hanel)
-- *The Foundations of Computability Theory* (Borut Robič)
-
-## Software
+# Software
 
 - [Obsidian](https://obsidian.md/) for note-taking, [thinking-and-learning-by-writing](https://www.cold-takes.com/learning-by-writing/), [spaced repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition), life logging, and more
 - [Todoist](https://todoist.com/) for tasks management 
   - It is actually somewhat-but-significantly suboptimal for my current workflow, but I learned to use it proficiently and works for me, so ¯\\\_(ツ)\_/¯.
+ - [Brave](https://brave.com/) browser
 
