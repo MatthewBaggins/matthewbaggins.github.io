@@ -38,3 +38,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Bug fix (?)
 gem "webrick"
+
+# jekyll-spaceship; https://github.com/jeffreytse/jekyll-spaceship
+gem 'jekyll-spaceship', group: :jekyll_plugins
+
