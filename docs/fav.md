@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Favorite stuff
-permaling: /favorite-stuff
+permalink: /fav
 ---
 
 ## Fiction
