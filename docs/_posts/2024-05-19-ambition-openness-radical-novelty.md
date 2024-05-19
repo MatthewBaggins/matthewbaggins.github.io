@@ -3,7 +3,6 @@ layout: post
 title: Ambition, Openness, and Radical Novelty
 date: 2024-05-19
 last-edit: 2024-05-19
-categories: agent-foundations
 ---
 
 **Central conjecture:** Maintaining high ambition in the face of radical novelty necessitates opening the target of ambition.

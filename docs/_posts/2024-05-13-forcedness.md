@@ -3,7 +3,6 @@ layout: post
 title: Forcedness
 date: 2024-05-13
 last-edit: 2024-05-13
-categories: agent-foundations
 ---
 
 ## What is forcedness?
