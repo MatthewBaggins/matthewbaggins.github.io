@@ -71,7 +71,6 @@ permalink: /fav
 - Other
   - [Mutual Understanding](https://mutualunderstanding.substack.com/podcast)
   - [Minds Almost Meeting](https://mindsalmostmeeting.com/)
-  - [Based Camp](https://basedcamppodcast.substack.com/)
   - [The Bailey Podcast](https://thebaileypodcast.substack.com/)
   - [Very Bad Wizards](https://sites.libsyn.com/474285/site)
   - [The Mind Killer](https://mindkiller.substack.com/people/43739216-the-mind-killer-podcast)
