@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+redirect_to: "https://hidden-structures.vercel.app/"
 ---
 
 Nothing here yet. See [About](./about.md). More stuff will be added soon-ish.
