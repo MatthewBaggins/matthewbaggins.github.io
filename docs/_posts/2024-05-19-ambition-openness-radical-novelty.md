@@ -3,6 +3,7 @@ layout: post
 title: Ambition, Openness, and Radical Novelty
 date: 2024-05-19
 last-edit: 2024-05-19
+redirect_to: "https://hidden-structures.vercel.app/ambition-openness-and-radical-novelty"
 ---
 
 **Central conjecture:** Maintaining high ambition in the face of radical novelty necessitates opening the target of ambition.

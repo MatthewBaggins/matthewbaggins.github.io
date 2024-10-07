@@ -2,6 +2,7 @@
 layout: page
 title: Conversational menu
 permalink: /conv
+redirect_to: "https://hidden-structures.vercel.app/conv"
 ---
 
 Stuff I'm happy to talk about approximately always and wherever. Roughly descending order according to my interest (but only roughly and my relative interest fluctuates, probably especially for the less-subjectively-interesting things).

@@ -2,6 +2,7 @@
 layout: page
 title: Favorite stuff
 permalink: /fav
+redirect_to: "https://hidden-structures.vercel.app/fav"
 ---
 
 ## Fiction

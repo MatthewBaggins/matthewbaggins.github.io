@@ -3,6 +3,7 @@ layout: post
 title: Forcedness
 date: 2024-05-13
 last-edit: 2024-05-13
+redirect_to: "https://hidden-structures.vercel.app/forcedness"
 ---
 
 ## What is forcedness?

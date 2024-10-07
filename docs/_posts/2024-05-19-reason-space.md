@@ -3,6 +3,7 @@ layout: post
 title: Reason-Space
 date: 2024-05-19
 last-edit: 2024-05-19
+redirect_to: "https://hidden-structures.vercel.app/reason-space"
 ---
 
 It seems/feels that when humans do something like explicit/symbolic-ish reasoning, they are trying to navigate some "space" where certain "moves" are valid/allowed/justified whereas others are not.
